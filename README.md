@@ -6,12 +6,12 @@ This repository contains code and resources for data preparation, exploratory da
 
 ### Tabular Data
 
-- [New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
+- [Kaggle link - New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 - [Google Colab Notebook link for Tabular Data](https://colab.research.google.com/drive/1pKJUAVdcvoHe3Sytci3fWetbBYh6cT14?usp=sharing)
 
 ### Time Series Data
 
-- [Property Sales](https://www.kaggle.com/datasets/htagholdings/property-sales)
+- [ kaggle link - Property Sales](https://www.kaggle.com/datasets/htagholdings/property-sales)
 - [Google Colab Notebook link for Time Series Data](https://colab.research.google.com/drive/18OAEFbEzcJROvm7_cqQTG8CCbY8fmt3p?usp=sharing)
 
 ## Usage
